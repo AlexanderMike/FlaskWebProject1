@@ -1,0 +1,1228 @@
+﻿
+2016-08-30T14:02:31: Start analysis
+2016-08-30T14:02:31: [WARNING] Library was set explicitly - skipping path detection
+2016-08-30T14:02:31: IncludeModulesFromModulePath = win32com
+2016-08-30T14:02:32: Deleting 0 files
+2016-08-30T14:02:32: Scraping builtin modules
+2016-08-30T14:02:32: Command: "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2016-08-30T14:02:34: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\__builtin__.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_subprocess.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_winreg.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cPickle.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cStringIO.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\datetime.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\exceptions.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\future_builtins.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\imp.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\operator.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\signal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\thread.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2016-08-30T14:02:34: Scraped builtin modules
+2016-08-30T14:02:34: Scraping markupsafe._speedups
+2016-08-30T14:02:34: Command: "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages" "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\.ptvs\markupsafe\markupsafe._speedups"
+2016-08-30T14:02:34: Scraped 1 files
+2016-08-30T14:02:34: astropy.CallDepth = 0
+2016-08-30T14:02:34: matplotlib.CallDepth = 3
+2016-08-30T14:02:34: pandas.CallDepth = 0
+2016-08-30T14:02:34: sympy.CallDepth = 0
+2016-08-30T14:02:34: Start group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib" with 143 files
+2016-08-30T14:02:35: Parsing "abc" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\abc.py")
+2016-08-30T14:02:36: Parsing "codecs" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\codecs.py")
+2016-08-30T14:02:36: Parsing "copy_reg" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\copy_reg.py")
+2016-08-30T14:02:36: Parsing "fnmatch" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\fnmatch.py")
+2016-08-30T14:02:36: Parsing "genericpath" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\genericpath.py")
+2016-08-30T14:02:36: Parsing "linecache" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\linecache.py")
+2016-08-30T14:02:36: Parsing "locale" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\locale.py")
+2016-08-30T14:02:36: Parsing "ntpath" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\ntpath.py")
+2016-08-30T14:02:36: Parsing "os" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\os.py")
+2016-08-30T14:02:36: Parsing "posixpath" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\posixpath.py")
+2016-08-30T14:02:36: Parsing "re" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\re.py")
+2016-08-30T14:02:36: Parsing "site" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site.py")
+2016-08-30T14:02:36: Parsing "sre" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\sre.py")
+2016-08-30T14:02:36: Parsing "sre_compile" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\sre_compile.py")
+2016-08-30T14:02:36: Parsing "sre_constants" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\sre_constants.py")
+2016-08-30T14:02:36: Parsing "sre_parse" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\sre_parse.py")
+2016-08-30T14:02:36: Parsing "stat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\stat.py")
+2016-08-30T14:02:36: Parsing "types" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\types.py")
+2016-08-30T14:02:36: Parsing "UserDict" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\UserDict.py")
+2016-08-30T14:02:36: Parsing "warnings" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\warnings.py")
+2016-08-30T14:02:36: Parsing "_abcoll" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\_abcoll.py")
+2016-08-30T14:02:36: Parsing "_weakrefset" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\_weakrefset.py")
+2016-08-30T14:02:36: Parsing "distutils" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\distutils\__init__.py")
+2016-08-30T14:02:36: Parsing "encodings.aliases" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\aliases.py")
+2016-08-30T14:02:36: Parsing "encodings.ascii" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\ascii.py")
+2016-08-30T14:02:36: Parsing "encodings.base64_codec" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\base64_codec.py")
+2016-08-30T14:02:36: Parsing "encodings.big5" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\big5.py")
+2016-08-30T14:02:36: Parsing "encodings.big5hkscs" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\big5hkscs.py")
+2016-08-30T14:02:36: Parsing "encodings.bz2_codec" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\bz2_codec.py")
+2016-08-30T14:02:36: Parsing "encodings.charmap" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\charmap.py")
+2016-08-30T14:02:36: Parsing "encodings.cp037" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp037.py")
+2016-08-30T14:02:36: Parsing "encodings.cp1006" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp1006.py")
+2016-08-30T14:02:36: Parsing "encodings.cp1026" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp1026.py")
+2016-08-30T14:02:36: Parsing "encodings.cp1140" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp1140.py")
+2016-08-30T14:02:36: Parsing "encodings.cp1250" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp1250.py")
+2016-08-30T14:02:36: Parsing "encodings.cp1251" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp1251.py")
+2016-08-30T14:02:36: Parsing "encodings.cp1252" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp1252.py")
+2016-08-30T14:02:36: Parsing "encodings.cp1253" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp1253.py")
+2016-08-30T14:02:36: Parsing "encodings.cp1254" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp1254.py")
+2016-08-30T14:02:36: Parsing "encodings.cp1255" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp1255.py")
+2016-08-30T14:02:36: Parsing "encodings.cp1256" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp1256.py")
+2016-08-30T14:02:36: Parsing "encodings.cp1257" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp1257.py")
+2016-08-30T14:02:36: Parsing "encodings.cp1258" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp1258.py")
+2016-08-30T14:02:36: Parsing "encodings.cp424" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp424.py")
+2016-08-30T14:02:36: Parsing "encodings.cp437" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp437.py")
+2016-08-30T14:02:36: Parsing "encodings.cp500" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp500.py")
+2016-08-30T14:02:36: Parsing "encodings.cp720" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp720.py")
+2016-08-30T14:02:36: Parsing "encodings.cp737" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp737.py")
+2016-08-30T14:02:36: Parsing "encodings.cp775" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp775.py")
+2016-08-30T14:02:36: Parsing "encodings.cp850" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp850.py")
+2016-08-30T14:02:36: Parsing "encodings.cp852" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp852.py")
+2016-08-30T14:02:36: Parsing "encodings.cp855" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp855.py")
+2016-08-30T14:02:36: Parsing "encodings.cp856" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp856.py")
+2016-08-30T14:02:36: Parsing "encodings.cp857" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp857.py")
+2016-08-30T14:02:36: Parsing "encodings.cp858" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp858.py")
+2016-08-30T14:02:36: Parsing "encodings.cp860" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp860.py")
+2016-08-30T14:02:36: Parsing "encodings.cp861" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp861.py")
+2016-08-30T14:02:36: Parsing "encodings.cp862" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp862.py")
+2016-08-30T14:02:36: Parsing "encodings.cp863" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp863.py")
+2016-08-30T14:02:36: Parsing "encodings.cp864" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp864.py")
+2016-08-30T14:02:36: Parsing "encodings.cp865" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp865.py")
+2016-08-30T14:02:36: Parsing "encodings.cp866" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp866.py")
+2016-08-30T14:02:36: Parsing "encodings.cp869" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp869.py")
+2016-08-30T14:02:36: Parsing "encodings.cp874" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp874.py")
+2016-08-30T14:02:36: Parsing "encodings.cp875" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp875.py")
+2016-08-30T14:02:36: Parsing "encodings.cp932" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp932.py")
+2016-08-30T14:02:36: Parsing "encodings.cp949" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp949.py")
+2016-08-30T14:02:36: Parsing "encodings.cp950" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\cp950.py")
+2016-08-30T14:02:36: Parsing "encodings.euc_jisx0213" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\euc_jisx0213.py")
+2016-08-30T14:02:36: Parsing "encodings.euc_jis_2004" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\euc_jis_2004.py")
+2016-08-30T14:02:36: Parsing "encodings.euc_jp" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\euc_jp.py")
+2016-08-30T14:02:36: Parsing "encodings.euc_kr" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\euc_kr.py")
+2016-08-30T14:02:36: Parsing "encodings.gb18030" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\gb18030.py")
+2016-08-30T14:02:36: Parsing "encodings.gb2312" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\gb2312.py")
+2016-08-30T14:02:36: Parsing "encodings.gbk" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\gbk.py")
+2016-08-30T14:02:36: Parsing "encodings.hex_codec" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\hex_codec.py")
+2016-08-30T14:02:36: Parsing "encodings.hp_roman8" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\hp_roman8.py")
+2016-08-30T14:02:36: Parsing "encodings.hz" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\hz.py")
+2016-08-30T14:02:36: Parsing "encodings.idna" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\idna.py")
+2016-08-30T14:02:36: Parsing "encodings.iso2022_jp" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso2022_jp.py")
+2016-08-30T14:02:36: Parsing "encodings.iso2022_jp_1" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso2022_jp_1.py")
+2016-08-30T14:02:36: Parsing "encodings.iso2022_jp_2" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso2022_jp_2.py")
+2016-08-30T14:02:36: Parsing "encodings.iso2022_jp_2004" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso2022_jp_2004.py")
+2016-08-30T14:02:36: Parsing "encodings.iso2022_jp_3" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso2022_jp_3.py")
+2016-08-30T14:02:36: Parsing "encodings.iso2022_jp_ext" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso2022_jp_ext.py")
+2016-08-30T14:02:36: Parsing "encodings.iso2022_kr" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso2022_kr.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_1" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_1.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_10" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_10.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_11" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_11.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_13" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_13.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_14" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_14.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_15" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_15.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_16" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_16.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_2" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_2.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_3" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_3.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_4" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_4.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_5" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_5.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_6" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_6.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_7" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_7.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_8" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_8.py")
+2016-08-30T14:02:36: Parsing "encodings.iso8859_9" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\iso8859_9.py")
+2016-08-30T14:02:36: Parsing "encodings.johab" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\johab.py")
+2016-08-30T14:02:36: Parsing "encodings.koi8_r" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\koi8_r.py")
+2016-08-30T14:02:36: Parsing "encodings.koi8_u" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\koi8_u.py")
+2016-08-30T14:02:36: Parsing "encodings.latin_1" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\latin_1.py")
+2016-08-30T14:02:36: Parsing "encodings.mac_arabic" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\mac_arabic.py")
+2016-08-30T14:02:36: Parsing "encodings.mac_centeuro" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\mac_centeuro.py")
+2016-08-30T14:02:36: Parsing "encodings.mac_croatian" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\mac_croatian.py")
+2016-08-30T14:02:36: Parsing "encodings.mac_cyrillic" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\mac_cyrillic.py")
+2016-08-30T14:02:36: Parsing "encodings.mac_farsi" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\mac_farsi.py")
+2016-08-30T14:02:36: Parsing "encodings.mac_greek" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\mac_greek.py")
+2016-08-30T14:02:36: Parsing "encodings.mac_iceland" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\mac_iceland.py")
+2016-08-30T14:02:36: Parsing "encodings.mac_latin2" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\mac_latin2.py")
+2016-08-30T14:02:36: Parsing "encodings.mac_roman" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\mac_roman.py")
+2016-08-30T14:02:36: Parsing "encodings.mac_romanian" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\mac_romanian.py")
+2016-08-30T14:02:36: Parsing "encodings.mac_turkish" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\mac_turkish.py")
+2016-08-30T14:02:36: Parsing "encodings.mbcs" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\mbcs.py")
+2016-08-30T14:02:36: Parsing "encodings.palmos" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\palmos.py")
+2016-08-30T14:02:36: Parsing "encodings.ptcp154" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\ptcp154.py")
+2016-08-30T14:02:36: Parsing "encodings.punycode" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\punycode.py")
+2016-08-30T14:02:36: Parsing "encodings.quopri_codec" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\quopri_codec.py")
+2016-08-30T14:02:36: Parsing "encodings.raw_unicode_escape" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\raw_unicode_escape.py")
+2016-08-30T14:02:36: Parsing "encodings.rot_13" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\rot_13.py")
+2016-08-30T14:02:36: Parsing "encodings.shift_jis" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\shift_jis.py")
+2016-08-30T14:02:36: Parsing "encodings.shift_jisx0213" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\shift_jisx0213.py")
+2016-08-30T14:02:36: Parsing "encodings.shift_jis_2004" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\shift_jis_2004.py")
+2016-08-30T14:02:36: Parsing "encodings.string_escape" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\string_escape.py")
+2016-08-30T14:02:36: Parsing "encodings.tis_620" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\tis_620.py")
+2016-08-30T14:02:36: Parsing "encodings.undefined" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\undefined.py")
+2016-08-30T14:02:36: Parsing "encodings.unicode_escape" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\unicode_escape.py")
+2016-08-30T14:02:36: Parsing "encodings.unicode_internal" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\unicode_internal.py")
+2016-08-30T14:02:36: Parsing "encodings.utf_16" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\utf_16.py")
+2016-08-30T14:02:36: Parsing "encodings.utf_16_be" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\utf_16_be.py")
+2016-08-30T14:02:36: Parsing "encodings.utf_16_le" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\utf_16_le.py")
+2016-08-30T14:02:36: Parsing "encodings.utf_32" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\utf_32.py")
+2016-08-30T14:02:36: Parsing "encodings.utf_32_be" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\utf_32_be.py")
+2016-08-30T14:02:36: Parsing "encodings.utf_32_le" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\utf_32_le.py")
+2016-08-30T14:02:36: Parsing "encodings.utf_7" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\utf_7.py")
+2016-08-30T14:02:36: Parsing "encodings.utf_8" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\utf_8.py")
+2016-08-30T14:02:36: Parsing "encodings.utf_8_sig" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\utf_8_sig.py")
+2016-08-30T14:02:36: Parsing "encodings.uu_codec" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\uu_codec.py")
+2016-08-30T14:02:36: Parsing "encodings.zlib_codec" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\zlib_codec.py")
+2016-08-30T14:02:36: Parsing "encodings" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\encodings\__init__.py")
+2016-08-30T14:02:36: Parsing complete
+2016-08-30T14:02:36: Analyzing "abc"
+2016-08-30T14:02:36: Analyzing "codecs"
+2016-08-30T14:02:36: Analyzing "copy_reg"
+2016-08-30T14:02:36: Analyzing "fnmatch"
+2016-08-30T14:02:36: Analyzing "genericpath"
+2016-08-30T14:02:36: Analyzing "linecache"
+2016-08-30T14:02:36: Analyzing "locale"
+2016-08-30T14:02:36: Analyzing "ntpath"
+2016-08-30T14:02:36: Analyzing "os"
+2016-08-30T14:02:36: Analyzing "posixpath"
+2016-08-30T14:02:36: Analyzing "re"
+2016-08-30T14:02:36: Analyzing "site"
+2016-08-30T14:02:36: Analyzing "sre"
+2016-08-30T14:02:36: Analyzing "sre_compile"
+2016-08-30T14:02:36: Analyzing "sre_constants"
+2016-08-30T14:02:36: Analyzing "sre_parse"
+2016-08-30T14:02:36: Analyzing "stat"
+2016-08-30T14:02:36: Analyzing "types"
+2016-08-30T14:02:36: Analyzing "UserDict"
+2016-08-30T14:02:36: Analyzing "warnings"
+2016-08-30T14:02:36: Analyzing "_abcoll"
+2016-08-30T14:02:36: Analyzing "_weakrefset"
+2016-08-30T14:02:36: Analyzing "distutils"
+2016-08-30T14:02:36: Analyzing "encodings.aliases"
+2016-08-30T14:02:36: Analyzing "encodings.ascii"
+2016-08-30T14:02:36: Analyzing "encodings.base64_codec"
+2016-08-30T14:02:36: Analyzing "encodings.big5"
+2016-08-30T14:02:36: Analyzing "encodings.big5hkscs"
+2016-08-30T14:02:36: Analyzing "encodings.bz2_codec"
+2016-08-30T14:02:36: Analyzing "encodings.charmap"
+2016-08-30T14:02:36: Analyzing "encodings.cp037"
+2016-08-30T14:02:36: Analyzing "encodings.cp1006"
+2016-08-30T14:02:36: Analyzing "encodings.cp1026"
+2016-08-30T14:02:36: Analyzing "encodings.cp1140"
+2016-08-30T14:02:36: Analyzing "encodings.cp1250"
+2016-08-30T14:02:36: Analyzing "encodings.cp1251"
+2016-08-30T14:02:36: Analyzing "encodings.cp1252"
+2016-08-30T14:02:36: Analyzing "encodings.cp1253"
+2016-08-30T14:02:36: Analyzing "encodings.cp1254"
+2016-08-30T14:02:36: Analyzing "encodings.cp1255"
+2016-08-30T14:02:36: Analyzing "encodings.cp1256"
+2016-08-30T14:02:36: Analyzing "encodings.cp1257"
+2016-08-30T14:02:36: Analyzing "encodings.cp1258"
+2016-08-30T14:02:36: Analyzing "encodings.cp424"
+2016-08-30T14:02:36: Analyzing "encodings.cp437"
+2016-08-30T14:02:36: Analyzing "encodings.cp500"
+2016-08-30T14:02:36: Analyzing "encodings.cp720"
+2016-08-30T14:02:36: Analyzing "encodings.cp737"
+2016-08-30T14:02:36: Analyzing "encodings.cp775"
+2016-08-30T14:02:36: Analyzing "encodings.cp850"
+2016-08-30T14:02:36: Analyzing "encodings.cp852"
+2016-08-30T14:02:36: Analyzing "encodings.cp855"
+2016-08-30T14:02:36: Analyzing "encodings.cp856"
+2016-08-30T14:02:36: Analyzing "encodings.cp857"
+2016-08-30T14:02:36: Analyzing "encodings.cp858"
+2016-08-30T14:02:36: Analyzing "encodings.cp860"
+2016-08-30T14:02:36: Analyzing "encodings.cp861"
+2016-08-30T14:02:36: Analyzing "encodings.cp862"
+2016-08-30T14:02:36: Analyzing "encodings.cp863"
+2016-08-30T14:02:36: Analyzing "encodings.cp864"
+2016-08-30T14:02:36: Analyzing "encodings.cp865"
+2016-08-30T14:02:36: Analyzing "encodings.cp866"
+2016-08-30T14:02:36: Analyzing "encodings.cp869"
+2016-08-30T14:02:36: Analyzing "encodings.cp874"
+2016-08-30T14:02:36: Analyzing "encodings.cp875"
+2016-08-30T14:02:36: Analyzing "encodings.cp932"
+2016-08-30T14:02:36: Analyzing "encodings.cp949"
+2016-08-30T14:02:36: Analyzing "encodings.cp950"
+2016-08-30T14:02:36: Analyzing "encodings.euc_jisx0213"
+2016-08-30T14:02:36: Analyzing "encodings.euc_jis_2004"
+2016-08-30T14:02:36: Analyzing "encodings.euc_jp"
+2016-08-30T14:02:36: Analyzing "encodings.euc_kr"
+2016-08-30T14:02:36: Analyzing "encodings.gb18030"
+2016-08-30T14:02:36: Analyzing "encodings.gb2312"
+2016-08-30T14:02:36: Analyzing "encodings.gbk"
+2016-08-30T14:02:36: Analyzing "encodings.hex_codec"
+2016-08-30T14:02:36: Analyzing "encodings.hp_roman8"
+2016-08-30T14:02:36: Analyzing "encodings.hz"
+2016-08-30T14:02:36: Analyzing "encodings.idna"
+2016-08-30T14:02:36: Analyzing "encodings.iso2022_jp"
+2016-08-30T14:02:36: Analyzing "encodings.iso2022_jp_1"
+2016-08-30T14:02:36: Analyzing "encodings.iso2022_jp_2"
+2016-08-30T14:02:36: Analyzing "encodings.iso2022_jp_2004"
+2016-08-30T14:02:36: Analyzing "encodings.iso2022_jp_3"
+2016-08-30T14:02:36: Analyzing "encodings.iso2022_jp_ext"
+2016-08-30T14:02:36: Analyzing "encodings.iso2022_kr"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_1"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_10"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_11"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_13"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_14"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_15"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_16"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_2"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_3"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_4"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_5"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_6"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_7"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_8"
+2016-08-30T14:02:36: Analyzing "encodings.iso8859_9"
+2016-08-30T14:02:36: Analyzing "encodings.johab"
+2016-08-30T14:02:36: Analyzing "encodings.koi8_r"
+2016-08-30T14:02:36: Analyzing "encodings.koi8_u"
+2016-08-30T14:02:36: Analyzing "encodings.latin_1"
+2016-08-30T14:02:36: Analyzing "encodings.mac_arabic"
+2016-08-30T14:02:36: Analyzing "encodings.mac_centeuro"
+2016-08-30T14:02:36: Analyzing "encodings.mac_croatian"
+2016-08-30T14:02:36: Analyzing "encodings.mac_cyrillic"
+2016-08-30T14:02:36: Analyzing "encodings.mac_farsi"
+2016-08-30T14:02:36: Analyzing "encodings.mac_greek"
+2016-08-30T14:02:36: Analyzing "encodings.mac_iceland"
+2016-08-30T14:02:36: Analyzing "encodings.mac_latin2"
+2016-08-30T14:02:36: Analyzing "encodings.mac_roman"
+2016-08-30T14:02:36: Analyzing "encodings.mac_romanian"
+2016-08-30T14:02:36: Analyzing "encodings.mac_turkish"
+2016-08-30T14:02:36: Analyzing "encodings.mbcs"
+2016-08-30T14:02:36: Analyzing "encodings.palmos"
+2016-08-30T14:02:36: Analyzing "encodings.ptcp154"
+2016-08-30T14:02:36: Analyzing "encodings.punycode"
+2016-08-30T14:02:36: Analyzing "encodings.quopri_codec"
+2016-08-30T14:02:36: Analyzing "encodings.raw_unicode_escape"
+2016-08-30T14:02:36: Analyzing "encodings.rot_13"
+2016-08-30T14:02:36: Analyzing "encodings.shift_jis"
+2016-08-30T14:02:36: Analyzing "encodings.shift_jisx0213"
+2016-08-30T14:02:36: Analyzing "encodings.shift_jis_2004"
+2016-08-30T14:02:36: Analyzing "encodings.string_escape"
+2016-08-30T14:02:36: Analyzing "encodings.tis_620"
+2016-08-30T14:02:36: Analyzing "encodings.undefined"
+2016-08-30T14:02:36: Analyzing "encodings.unicode_escape"
+2016-08-30T14:02:36: Analyzing "encodings.unicode_internal"
+2016-08-30T14:02:36: Analyzing "encodings.utf_16"
+2016-08-30T14:02:36: Analyzing "encodings.utf_16_be"
+2016-08-30T14:02:36: Analyzing "encodings.utf_16_le"
+2016-08-30T14:02:36: Analyzing "encodings.utf_32"
+2016-08-30T14:02:36: Analyzing "encodings.utf_32_be"
+2016-08-30T14:02:36: Analyzing "encodings.utf_32_le"
+2016-08-30T14:02:36: Analyzing "encodings.utf_7"
+2016-08-30T14:02:36: Analyzing "encodings.utf_8"
+2016-08-30T14:02:36: Analyzing "encodings.utf_8_sig"
+2016-08-30T14:02:36: Analyzing "encodings.uu_codec"
+2016-08-30T14:02:36: Analyzing "encodings.zlib_codec"
+2016-08-30T14:02:36: Analyzing "encodings"
+2016-08-30T14:02:36: Starting analysis of 143 modules
+2016-08-30T14:02:38: Analysis complete
+2016-08-30T14:02:38: Saving group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib"
+2016-08-30T14:02:39: End of group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib"
+2016-08-30T14:02:39: Start group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages" with 2 files
+2016-08-30T14:02:40: Parsing "easy_install" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\easy_install.py")
+2016-08-30T14:02:40: Parsing "itsdangerous" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\itsdangerous.py")
+2016-08-30T14:02:40: Parsing complete
+2016-08-30T14:02:40: Analyzing "easy_install"
+2016-08-30T14:02:40: Analyzing "itsdangerous"
+2016-08-30T14:02:40: Starting analysis of 2 modules
+2016-08-30T14:02:41: Analysis complete
+2016-08-30T14:02:41: Saving group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages"
+2016-08-30T14:02:41: End of group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages"
+2016-08-30T14:02:41: Start group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click" with 17 files
+2016-08-30T14:02:42: Parsing "click.core" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\core.py")
+2016-08-30T14:02:42: Parsing "click.decorators" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\decorators.py")
+2016-08-30T14:02:42: Parsing "click.exceptions" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\exceptions.py")
+2016-08-30T14:02:42: Parsing "click.formatting" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\formatting.py")
+2016-08-30T14:02:42: Parsing "click.globals" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\globals.py")
+2016-08-30T14:02:42: Parsing "click.parser" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\parser.py")
+2016-08-30T14:02:42: Parsing "click.termui" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\termui.py")
+2016-08-30T14:02:42: Parsing "click.testing" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\testing.py")
+2016-08-30T14:02:42: Parsing "click.types" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\types.py")
+2016-08-30T14:02:42: Parsing "click.utils" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\utils.py")
+2016-08-30T14:02:42: Parsing "click._bashcomplete" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\_bashcomplete.py")
+2016-08-30T14:02:42: Parsing "click._compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\_compat.py")
+2016-08-30T14:02:42: Parsing "click._termui_impl" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\_termui_impl.py")
+2016-08-30T14:02:42: Parsing "click._textwrap" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\_textwrap.py")
+2016-08-30T14:02:42: Parsing "click._unicodefun" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\_unicodefun.py")
+2016-08-30T14:02:42: Parsing "click._winconsole" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\_winconsole.py")
+2016-08-30T14:02:42: Parsing "click" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click\__init__.py")
+2016-08-30T14:02:42: Parsing complete
+2016-08-30T14:02:42: Analyzing "click.core"
+2016-08-30T14:02:42: Analyzing "click.decorators"
+2016-08-30T14:02:42: Analyzing "click.exceptions"
+2016-08-30T14:02:42: Analyzing "click.formatting"
+2016-08-30T14:02:42: Analyzing "click.globals"
+2016-08-30T14:02:42: Analyzing "click.parser"
+2016-08-30T14:02:42: Analyzing "click.termui"
+2016-08-30T14:02:42: Analyzing "click.testing"
+2016-08-30T14:02:42: Analyzing "click.types"
+2016-08-30T14:02:42: Analyzing "click.utils"
+2016-08-30T14:02:42: Analyzing "click._bashcomplete"
+2016-08-30T14:02:42: Analyzing "click._compat"
+2016-08-30T14:02:42: Analyzing "click._termui_impl"
+2016-08-30T14:02:42: Analyzing "click._textwrap"
+2016-08-30T14:02:42: Analyzing "click._unicodefun"
+2016-08-30T14:02:42: Analyzing "click._winconsole"
+2016-08-30T14:02:42: Analyzing "click"
+2016-08-30T14:02:42: Starting analysis of 17 modules
+2016-08-30T14:02:43: Analysis complete
+2016-08-30T14:02:43: Saving group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click"
+2016-08-30T14:02:43: End of group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\click"
+2016-08-30T14:02:43: Start group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask" with 21 files
+2016-08-30T14:02:45: Parsing "flask.app" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\app.py")
+2016-08-30T14:02:45: Parsing "flask.blueprints" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\blueprints.py")
+2016-08-30T14:02:45: Parsing "flask.cli" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\cli.py")
+2016-08-30T14:02:45: Parsing "flask.config" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\config.py")
+2016-08-30T14:02:45: Parsing "flask.ctx" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\ctx.py")
+2016-08-30T14:02:45: Parsing "flask.debughelpers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\debughelpers.py")
+2016-08-30T14:02:45: Parsing "flask.exthook" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\exthook.py")
+2016-08-30T14:02:45: Parsing "flask.globals" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\globals.py")
+2016-08-30T14:02:45: Parsing "flask.helpers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\helpers.py")
+2016-08-30T14:02:45: Parsing "flask.json" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\json.py")
+2016-08-30T14:02:45: Parsing "flask.logging" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\logging.py")
+2016-08-30T14:02:45: Parsing "flask.sessions" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\sessions.py")
+2016-08-30T14:02:45: Parsing "flask.signals" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\signals.py")
+2016-08-30T14:02:45: Parsing "flask.templating" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\templating.py")
+2016-08-30T14:02:45: Parsing "flask.testing" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\testing.py")
+2016-08-30T14:02:45: Parsing "flask.views" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\views.py")
+2016-08-30T14:02:45: Parsing "flask.wrappers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\wrappers.py")
+2016-08-30T14:02:45: Parsing "flask._compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\_compat.py")
+2016-08-30T14:02:45: Parsing "flask" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\__init__.py")
+2016-08-30T14:02:45: Parsing "flask.__main__" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\__main__.py")
+2016-08-30T14:02:45: Parsing "flask.ext" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask\ext\__init__.py")
+2016-08-30T14:02:45: Parsing complete
+2016-08-30T14:02:45: Analyzing "flask.app"
+2016-08-30T14:02:45: Analyzing "flask.blueprints"
+2016-08-30T14:02:45: Analyzing "flask.cli"
+2016-08-30T14:02:45: Analyzing "flask.config"
+2016-08-30T14:02:45: Analyzing "flask.ctx"
+2016-08-30T14:02:45: Analyzing "flask.debughelpers"
+2016-08-30T14:02:45: Analyzing "flask.exthook"
+2016-08-30T14:02:45: Analyzing "flask.globals"
+2016-08-30T14:02:45: Analyzing "flask.helpers"
+2016-08-30T14:02:45: Analyzing "flask.json"
+2016-08-30T14:02:45: Analyzing "flask.logging"
+2016-08-30T14:02:45: Analyzing "flask.sessions"
+2016-08-30T14:02:45: Analyzing "flask.signals"
+2016-08-30T14:02:45: Analyzing "flask.templating"
+2016-08-30T14:02:45: Analyzing "flask.testing"
+2016-08-30T14:02:45: Analyzing "flask.views"
+2016-08-30T14:02:45: Analyzing "flask.wrappers"
+2016-08-30T14:02:45: Analyzing "flask._compat"
+2016-08-30T14:02:45: Analyzing "flask"
+2016-08-30T14:02:45: Analyzing "flask.__main__"
+2016-08-30T14:02:45: Analyzing "flask.ext"
+2016-08-30T14:02:45: Starting analysis of 21 modules
+2016-08-30T14:02:46: Analysis complete
+2016-08-30T14:02:46: Saving group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask"
+2016-08-30T14:02:46: End of group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\flask"
+2016-08-30T14:02:46: Start group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2" with 23 files
+2016-08-30T14:02:48: Parsing "jinja2.bccache" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\bccache.py")
+2016-08-30T14:02:48: Parsing "jinja2.compiler" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\compiler.py")
+2016-08-30T14:02:48: Parsing "jinja2.constants" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\constants.py")
+2016-08-30T14:02:48: Parsing "jinja2.debug" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\debug.py")
+2016-08-30T14:02:48: Parsing "jinja2.defaults" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\defaults.py")
+2016-08-30T14:02:48: Parsing "jinja2.environment" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\environment.py")
+2016-08-30T14:02:48: Parsing "jinja2.exceptions" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\exceptions.py")
+2016-08-30T14:02:48: Parsing "jinja2.ext" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\ext.py")
+2016-08-30T14:02:48: Parsing "jinja2.filters" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\filters.py")
+2016-08-30T14:02:48: Parsing "jinja2.lexer" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\lexer.py")
+2016-08-30T14:02:48: Parsing "jinja2.loaders" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\loaders.py")
+2016-08-30T14:02:48: Parsing "jinja2.meta" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\meta.py")
+2016-08-30T14:02:48: Parsing "jinja2.nodes" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\nodes.py")
+2016-08-30T14:02:48: Parsing "jinja2.optimizer" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\optimizer.py")
+2016-08-30T14:02:48: Parsing "jinja2.parser" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\parser.py")
+2016-08-30T14:02:48: Parsing "jinja2.runtime" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\runtime.py")
+2016-08-30T14:02:48: Parsing "jinja2.sandbox" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\sandbox.py")
+2016-08-30T14:02:48: Parsing "jinja2.tests" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\tests.py")
+2016-08-30T14:02:48: Parsing "jinja2.utils" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\utils.py")
+2016-08-30T14:02:48: Parsing "jinja2.visitor" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\visitor.py")
+2016-08-30T14:02:48: Parsing "jinja2._compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\_compat.py")
+2016-08-30T14:02:48: Parsing "jinja2._stringdefs" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\_stringdefs.py")
+2016-08-30T14:02:48: Parsing "jinja2" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2\__init__.py")
+2016-08-30T14:02:48: Parsing complete
+2016-08-30T14:02:48: Analyzing "jinja2.bccache"
+2016-08-30T14:02:48: Analyzing "jinja2.compiler"
+2016-08-30T14:02:48: Analyzing "jinja2.constants"
+2016-08-30T14:02:48: Analyzing "jinja2.debug"
+2016-08-30T14:02:48: Analyzing "jinja2.defaults"
+2016-08-30T14:02:48: Analyzing "jinja2.environment"
+2016-08-30T14:02:48: Analyzing "jinja2.exceptions"
+2016-08-30T14:02:48: Analyzing "jinja2.ext"
+2016-08-30T14:02:48: Analyzing "jinja2.filters"
+2016-08-30T14:02:48: Analyzing "jinja2.lexer"
+2016-08-30T14:02:48: Analyzing "jinja2.loaders"
+2016-08-30T14:02:48: Analyzing "jinja2.meta"
+2016-08-30T14:02:48: Analyzing "jinja2.nodes"
+2016-08-30T14:02:48: Analyzing "jinja2.optimizer"
+2016-08-30T14:02:48: Analyzing "jinja2.parser"
+2016-08-30T14:02:48: Analyzing "jinja2.runtime"
+2016-08-30T14:02:48: Analyzing "jinja2.sandbox"
+2016-08-30T14:02:48: Analyzing "jinja2.tests"
+2016-08-30T14:02:48: Analyzing "jinja2.utils"
+2016-08-30T14:02:48: Analyzing "jinja2.visitor"
+2016-08-30T14:02:48: Analyzing "jinja2._compat"
+2016-08-30T14:02:48: Analyzing "jinja2._stringdefs"
+2016-08-30T14:02:48: Analyzing "jinja2"
+2016-08-30T14:02:48: Starting analysis of 23 modules
+2016-08-30T14:02:49: Analysis complete
+2016-08-30T14:02:49: Saving group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2"
+2016-08-30T14:02:49: End of group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\jinja2"
+2016-08-30T14:02:49: Start group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe" with 5 files
+2016-08-30T14:02:51: Parsing "markupsafe.tests" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe\tests.py")
+2016-08-30T14:02:51: Parsing "markupsafe._compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe\_compat.py")
+2016-08-30T14:02:51: Parsing "markupsafe._constants" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe\_constants.py")
+2016-08-30T14:02:51: Parsing "markupsafe._native" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe\_native.py")
+2016-08-30T14:02:51: Parsing "markupsafe" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe\__init__.py")
+2016-08-30T14:02:51: Parsing complete
+2016-08-30T14:02:51: Analyzing "markupsafe.tests"
+2016-08-30T14:02:51: Analyzing "markupsafe._compat"
+2016-08-30T14:02:51: Analyzing "markupsafe._constants"
+2016-08-30T14:02:51: Analyzing "markupsafe._native"
+2016-08-30T14:02:51: Analyzing "markupsafe"
+2016-08-30T14:02:51: Starting analysis of 5 modules
+2016-08-30T14:02:51: Analysis complete
+2016-08-30T14:02:51: Saving group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe"
+2016-08-30T14:02:51: End of group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\markupsafe"
+2016-08-30T14:02:51: Start group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip" with 227 files
+2016-08-30T14:02:53: Parsing "pip.basecommand" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\basecommand.py")
+2016-08-30T14:02:53: Parsing "pip.baseparser" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\baseparser.py")
+2016-08-30T14:02:53: Parsing "pip.cmdoptions" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\cmdoptions.py")
+2016-08-30T14:02:53: Parsing "pip.download" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\download.py")
+2016-08-30T14:02:53: Parsing "pip.exceptions" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\exceptions.py")
+2016-08-30T14:02:53: Parsing "pip.index" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\index.py")
+2016-08-30T14:02:53: Parsing "pip.locations" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\locations.py")
+2016-08-30T14:02:53: Parsing "pip.pep425tags" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\pep425tags.py")
+2016-08-30T14:02:53: Parsing "pip.status_codes" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\status_codes.py")
+2016-08-30T14:02:53: Parsing "pip.wheel" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\wheel.py")
+2016-08-30T14:02:53: Parsing "pip" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\__init__.py")
+2016-08-30T14:02:53: Parsing "pip.__main__" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\__main__.py")
+2016-08-30T14:02:53: Parsing "pip.commands.completion" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\commands\completion.py")
+2016-08-30T14:02:53: Parsing "pip.commands.freeze" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\commands\freeze.py")
+2016-08-30T14:02:53: Parsing "pip.commands.help" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\commands\help.py")
+2016-08-30T14:02:53: Parsing "pip.commands.install" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\commands\install.py")
+2016-08-30T14:02:53: Parsing "pip.commands.list" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\commands\list.py")
+2016-08-30T14:02:53: Parsing "pip.commands.search" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\commands\search.py")
+2016-08-30T14:02:53: Parsing "pip.commands.show" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\commands\show.py")
+2016-08-30T14:02:53: Parsing "pip.commands.uninstall" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\commands\uninstall.py")
+2016-08-30T14:02:53: Parsing "pip.commands.unzip" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\commands\unzip.py")
+2016-08-30T14:02:53: Parsing "pip.commands.wheel" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\commands\wheel.py")
+2016-08-30T14:02:53: Parsing "pip.commands.zip" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\commands\zip.py")
+2016-08-30T14:02:53: Parsing "pip.commands" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\commands\__init__.py")
+2016-08-30T14:02:53: Parsing "pip.compat.dictconfig" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\compat\dictconfig.py")
+2016-08-30T14:02:53: Parsing "pip.compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\compat\__init__.py")
+2016-08-30T14:02:53: Parsing "pip.models.index" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\models\index.py")
+2016-08-30T14:02:53: Parsing "pip.models" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\models\__init__.py")
+2016-08-30T14:02:53: Parsing "pip.operations.freeze" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\operations\freeze.py")
+2016-08-30T14:02:53: Parsing "pip.operations" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\operations\__init__.py")
+2016-08-30T14:02:53: Parsing "pip.req.req_file" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\req\req_file.py")
+2016-08-30T14:02:53: Parsing "pip.req.req_install" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\req\req_install.py")
+2016-08-30T14:02:53: Parsing "pip.req.req_requirement" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\req\req_requirement.py")
+2016-08-30T14:02:53: Parsing "pip.req.req_set" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\req\req_set.py")
+2016-08-30T14:02:53: Parsing "pip.req.req_uninstall" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\req\req_uninstall.py")
+2016-08-30T14:02:53: Parsing "pip.req" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\req\__init__.py")
+2016-08-30T14:02:53: Parsing "pip.utils.appdirs" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\utils\appdirs.py")
+2016-08-30T14:02:53: Parsing "pip.utils.build" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\utils\build.py")
+2016-08-30T14:02:53: Parsing "pip.utils.deprecation" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\utils\deprecation.py")
+2016-08-30T14:02:53: Parsing "pip.utils.filesystem" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\utils\filesystem.py")
+2016-08-30T14:02:53: Parsing "pip.utils.logging" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\utils\logging.py")
+2016-08-30T14:02:53: Parsing "pip.utils.outdated" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\utils\outdated.py")
+2016-08-30T14:02:53: Parsing "pip.utils.ui" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\utils\ui.py")
+2016-08-30T14:02:53: Parsing "pip.utils" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\utils\__init__.py")
+2016-08-30T14:02:53: Parsing "pip.vcs.bazaar" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\vcs\bazaar.py")
+2016-08-30T14:02:53: Parsing "pip.vcs.git" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\vcs\git.py")
+2016-08-30T14:02:53: Parsing "pip.vcs.mercurial" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\vcs\mercurial.py")
+2016-08-30T14:02:53: Parsing "pip.vcs.subversion" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\vcs\subversion.py")
+2016-08-30T14:02:53: Parsing "pip.vcs" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\vcs\__init__.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.ipaddress" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\ipaddress.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.retrying" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\retrying.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.six" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\six.py")
+2016-08-30T14:02:53: Parsing "pip._vendor" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\__init__.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.cachecontrol.adapter" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.cachecontrol.cache" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.cachecontrol.compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.cachecontrol.controller" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.cachecontrol.filewrapper" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.cachecontrol.heuristics" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.cachecontrol.serialize" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.cachecontrol.wrapper" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.cachecontrol" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.cachecontrol.caches" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.colorama.ansi" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.colorama.ansitowin32" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.colorama.initialise" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.colorama.win32" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.colorama.winterm" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.colorama" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.distlib.compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.distlib.database" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.distlib.index" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.distlib.locators" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.distlib.manifest" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.distlib.markers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.distlib.metadata" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.distlib.resources" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.distlib.scripts" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2016-08-30T14:02:53: Parsing "pip._vendor.distlib.util" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.distlib.version" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.distlib.wheel" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.distlib" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.distlib._backport.misc" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.distlib._backport.shutil" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.distlib._backport.sysconfig" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.distlib._backport.tarfile" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.distlib._backport" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.constants" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.html5parser" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.ihatexml" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.inputstream" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.sanitizer" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.tokenizer" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.utils" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.filters.lint" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.filters.optionaltags" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.filters.sanitizer" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.filters.whitespace" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.filters._base" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.filters" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.serializer" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treeadapters.sax" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treeadapters" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treebuilders.dom" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treebuilders.etree" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treebuilders._base" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treebuilders" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treewalkers.dom" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treewalkers.etree" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treewalkers._base" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.treewalkers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.trie.datrie" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.trie.py" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.trie._base" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.html5lib.trie" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.lockfile.linklockfile" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.lockfile.mkdirlockfile" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.lockfile.pidlockfile" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.lockfile.sqlitelockfile" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.lockfile.symlinklockfile" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.lockfile" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.packaging.specifiers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.packaging.version" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\version.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.packaging._compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.packaging._structures" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.packaging.__about__" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.packaging" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.pkg_resources" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.pkg_resources.tests.test_pkg_resources" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\pkg_resources\tests\test_pkg_resources.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.pkg_resources.tests.test_resources" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\pkg_resources\tests\test_resources.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.pkg_resources.tests" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\pkg_resources\tests\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.progress.bar" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\progress\bar.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.progress.counter" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\progress\counter.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.progress.helpers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.progress.spinner" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.progress" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.adapters" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.api" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.auth" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.certs" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.cookies" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.exceptions" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.hooks" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.models" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.sessions" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.status_codes" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.structures" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.utils" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.constants" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.escprober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.escsm" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.chardet" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.connection" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.fields" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.request" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.response" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3._collections" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.packages" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2016-08-30T14:02:54: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2016-08-30T14:02:55: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2016-08-30T14:02:55: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2016-08-30T14:02:55: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2016-08-30T14:02:55: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2016-08-30T14:02:55: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2016-08-30T14:02:55: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2016-08-30T14:02:55: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2016-08-30T14:02:55: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2016-08-30T14:02:55: Parsing "pip._vendor.requests.packages.urllib3.util" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2016-08-30T14:02:55: Parsing "pip._vendor._markerlib.markers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2016-08-30T14:02:55: Parsing "pip._vendor._markerlib" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2016-08-30T14:02:55: Parsing complete
+2016-08-30T14:02:55: Analyzing "pip.basecommand"
+2016-08-30T14:02:55: Analyzing "pip.baseparser"
+2016-08-30T14:02:55: Analyzing "pip.cmdoptions"
+2016-08-30T14:02:55: Analyzing "pip.download"
+2016-08-30T14:02:55: Analyzing "pip.exceptions"
+2016-08-30T14:02:55: Analyzing "pip.index"
+2016-08-30T14:02:55: Analyzing "pip.locations"
+2016-08-30T14:02:55: Analyzing "pip.pep425tags"
+2016-08-30T14:02:55: Analyzing "pip.status_codes"
+2016-08-30T14:02:55: Analyzing "pip.wheel"
+2016-08-30T14:02:55: Analyzing "pip"
+2016-08-30T14:02:55: Analyzing "pip.__main__"
+2016-08-30T14:02:55: Analyzing "pip.commands.completion"
+2016-08-30T14:02:55: Analyzing "pip.commands.freeze"
+2016-08-30T14:02:55: Analyzing "pip.commands.help"
+2016-08-30T14:02:55: Analyzing "pip.commands.install"
+2016-08-30T14:02:55: Analyzing "pip.commands.list"
+2016-08-30T14:02:55: Analyzing "pip.commands.search"
+2016-08-30T14:02:55: Analyzing "pip.commands.show"
+2016-08-30T14:02:55: Analyzing "pip.commands.uninstall"
+2016-08-30T14:02:55: Analyzing "pip.commands.unzip"
+2016-08-30T14:02:55: Analyzing "pip.commands.wheel"
+2016-08-30T14:02:55: Analyzing "pip.commands.zip"
+2016-08-30T14:02:55: Analyzing "pip.commands"
+2016-08-30T14:02:55: Analyzing "pip.compat.dictconfig"
+2016-08-30T14:02:55: Analyzing "pip.compat"
+2016-08-30T14:02:55: Analyzing "pip.models.index"
+2016-08-30T14:02:55: Analyzing "pip.models"
+2016-08-30T14:02:55: Analyzing "pip.operations.freeze"
+2016-08-30T14:02:55: Analyzing "pip.operations"
+2016-08-30T14:02:55: Analyzing "pip.req.req_file"
+2016-08-30T14:02:55: Analyzing "pip.req.req_install"
+2016-08-30T14:02:55: Analyzing "pip.req.req_requirement"
+2016-08-30T14:02:55: Analyzing "pip.req.req_set"
+2016-08-30T14:02:55: Analyzing "pip.req.req_uninstall"
+2016-08-30T14:02:55: Analyzing "pip.req"
+2016-08-30T14:02:55: Analyzing "pip.utils.appdirs"
+2016-08-30T14:02:55: Analyzing "pip.utils.build"
+2016-08-30T14:02:55: Analyzing "pip.utils.deprecation"
+2016-08-30T14:02:55: Analyzing "pip.utils.filesystem"
+2016-08-30T14:02:55: Analyzing "pip.utils.logging"
+2016-08-30T14:02:55: Analyzing "pip.utils.outdated"
+2016-08-30T14:02:55: Analyzing "pip.utils.ui"
+2016-08-30T14:02:55: Analyzing "pip.utils"
+2016-08-30T14:02:55: Analyzing "pip.vcs.bazaar"
+2016-08-30T14:02:55: Analyzing "pip.vcs.git"
+2016-08-30T14:02:55: Analyzing "pip.vcs.mercurial"
+2016-08-30T14:02:55: Analyzing "pip.vcs.subversion"
+2016-08-30T14:02:55: Analyzing "pip.vcs"
+2016-08-30T14:02:55: Analyzing "pip._vendor.ipaddress"
+2016-08-30T14:02:55: Analyzing "pip._vendor.retrying"
+2016-08-30T14:02:55: Analyzing "pip._vendor.six"
+2016-08-30T14:02:55: Analyzing "pip._vendor"
+2016-08-30T14:02:55: Analyzing "pip._vendor.cachecontrol.adapter"
+2016-08-30T14:02:55: Analyzing "pip._vendor.cachecontrol.cache"
+2016-08-30T14:02:55: Analyzing "pip._vendor.cachecontrol.compat"
+2016-08-30T14:02:55: Analyzing "pip._vendor.cachecontrol.controller"
+2016-08-30T14:02:55: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2016-08-30T14:02:55: Analyzing "pip._vendor.cachecontrol.heuristics"
+2016-08-30T14:02:55: Analyzing "pip._vendor.cachecontrol.serialize"
+2016-08-30T14:02:55: Analyzing "pip._vendor.cachecontrol.wrapper"
+2016-08-30T14:02:55: Analyzing "pip._vendor.cachecontrol"
+2016-08-30T14:02:55: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2016-08-30T14:02:55: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2016-08-30T14:02:55: Analyzing "pip._vendor.cachecontrol.caches"
+2016-08-30T14:02:55: Analyzing "pip._vendor.colorama.ansi"
+2016-08-30T14:02:55: Analyzing "pip._vendor.colorama.ansitowin32"
+2016-08-30T14:02:55: Analyzing "pip._vendor.colorama.initialise"
+2016-08-30T14:02:55: Analyzing "pip._vendor.colorama.win32"
+2016-08-30T14:02:55: Analyzing "pip._vendor.colorama.winterm"
+2016-08-30T14:02:55: Analyzing "pip._vendor.colorama"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib.compat"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib.database"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib.index"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib.locators"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib.manifest"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib.markers"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib.metadata"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib.resources"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib.scripts"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib.util"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib.version"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib.wheel"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib._backport.misc"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib._backport.shutil"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib._backport.tarfile"
+2016-08-30T14:02:55: Analyzing "pip._vendor.distlib._backport"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.constants"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.html5parser"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.ihatexml"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.inputstream"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.sanitizer"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.tokenizer"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.utils"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.filters.lint"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.filters._base"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.filters"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.serializer"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treeadapters"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treebuilders"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.treewalkers"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.trie.datrie"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.trie.py"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.trie._base"
+2016-08-30T14:02:55: Analyzing "pip._vendor.html5lib.trie"
+2016-08-30T14:02:55: Analyzing "pip._vendor.lockfile.linklockfile"
+2016-08-30T14:02:55: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2016-08-30T14:02:55: Analyzing "pip._vendor.lockfile.pidlockfile"
+2016-08-30T14:02:55: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2016-08-30T14:02:55: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2016-08-30T14:02:55: Analyzing "pip._vendor.lockfile"
+2016-08-30T14:02:55: Analyzing "pip._vendor.packaging.specifiers"
+2016-08-30T14:02:55: Analyzing "pip._vendor.packaging.version"
+2016-08-30T14:02:55: Analyzing "pip._vendor.packaging._compat"
+2016-08-30T14:02:55: Analyzing "pip._vendor.packaging._structures"
+2016-08-30T14:02:55: Analyzing "pip._vendor.packaging.__about__"
+2016-08-30T14:02:55: Analyzing "pip._vendor.packaging"
+2016-08-30T14:02:55: Analyzing "pip._vendor.pkg_resources"
+2016-08-30T14:02:55: Analyzing "pip._vendor.pkg_resources.tests.test_pkg_resources"
+2016-08-30T14:02:55: Analyzing "pip._vendor.pkg_resources.tests.test_resources"
+2016-08-30T14:02:55: Analyzing "pip._vendor.pkg_resources.tests"
+2016-08-30T14:02:55: Analyzing "pip._vendor.progress.bar"
+2016-08-30T14:02:55: Analyzing "pip._vendor.progress.counter"
+2016-08-30T14:02:55: Analyzing "pip._vendor.progress.helpers"
+2016-08-30T14:02:55: Analyzing "pip._vendor.progress.spinner"
+2016-08-30T14:02:55: Analyzing "pip._vendor.progress"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.adapters"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.api"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.auth"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.certs"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.compat"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.cookies"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.exceptions"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.hooks"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.models"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.sessions"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.status_codes"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.structures"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.utils"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.chardet"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2016-08-30T14:02:55: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2016-08-30T14:02:55: Analyzing "pip._vendor._markerlib.markers"
+2016-08-30T14:02:55: Analyzing "pip._vendor._markerlib"
+2016-08-30T14:02:55: Starting analysis of 227 modules
+2016-08-30T14:03:00: Analysis complete
+2016-08-30T14:03:00: Saving group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip"
+2016-08-30T14:03:02: End of group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pip"
+2016-08-30T14:03:02: Start group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources" with 11 files
+2016-08-30T14:03:04: Parsing "pkg_resources" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\__init__.py")
+2016-08-30T14:03:04: Parsing "pkg_resources.tests.test_pkg_resources" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\tests\test_pkg_resources.py")
+2016-08-30T14:03:04: Parsing "pkg_resources.tests.test_resources" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\tests\test_resources.py")
+2016-08-30T14:03:04: Parsing "pkg_resources.tests" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\tests\__init__.py")
+2016-08-30T14:03:04: Parsing "pkg_resources._vendor" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2016-08-30T14:03:04: Parsing "pkg_resources._vendor.packaging.specifiers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2016-08-30T14:03:04: Parsing "pkg_resources._vendor.packaging.version" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2016-08-30T14:03:04: Parsing "pkg_resources._vendor.packaging._compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2016-08-30T14:03:04: Parsing "pkg_resources._vendor.packaging._structures" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2016-08-30T14:03:04: Parsing "pkg_resources._vendor.packaging.__about__" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2016-08-30T14:03:04: Parsing "pkg_resources._vendor.packaging" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2016-08-30T14:03:04: Parsing complete
+2016-08-30T14:03:04: Analyzing "pkg_resources"
+2016-08-30T14:03:04: Analyzing "pkg_resources.tests.test_pkg_resources"
+2016-08-30T14:03:04: Analyzing "pkg_resources.tests.test_resources"
+2016-08-30T14:03:04: Analyzing "pkg_resources.tests"
+2016-08-30T14:03:04: Analyzing "pkg_resources._vendor"
+2016-08-30T14:03:04: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2016-08-30T14:03:04: Analyzing "pkg_resources._vendor.packaging.version"
+2016-08-30T14:03:04: Analyzing "pkg_resources._vendor.packaging._compat"
+2016-08-30T14:03:04: Analyzing "pkg_resources._vendor.packaging._structures"
+2016-08-30T14:03:04: Analyzing "pkg_resources._vendor.packaging.__about__"
+2016-08-30T14:03:04: Analyzing "pkg_resources._vendor.packaging"
+2016-08-30T14:03:04: Starting analysis of 11 modules
+2016-08-30T14:03:04: Analysis complete
+2016-08-30T14:03:04: Saving group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources"
+2016-08-30T14:03:04: End of group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\pkg_resources"
+2016-08-30T14:03:04: Start group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools" with 62 files
+2016-08-30T14:03:06: Parsing "setuptools.archive_util" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\archive_util.py")
+2016-08-30T14:03:06: Parsing "setuptools.compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\compat.py")
+2016-08-30T14:03:06: Parsing "setuptools.depends" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\depends.py")
+2016-08-30T14:03:06: Parsing "setuptools.dist" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\dist.py")
+2016-08-30T14:03:06: Parsing "setuptools.extension" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\extension.py")
+2016-08-30T14:03:06: Parsing "setuptools.lib2to3_ex" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2016-08-30T14:03:06: Parsing "setuptools.msvc9_support" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\msvc9_support.py")
+2016-08-30T14:03:06: Parsing "setuptools.package_index" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\package_index.py")
+2016-08-30T14:03:06: Parsing "setuptools.py26compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\py26compat.py")
+2016-08-30T14:03:06: Parsing "setuptools.py27compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\py27compat.py")
+2016-08-30T14:03:06: Parsing "setuptools.py31compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\py31compat.py")
+2016-08-30T14:03:06: Parsing "setuptools.sandbox" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\sandbox.py")
+2016-08-30T14:03:06: Parsing "setuptools.ssl_support" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\ssl_support.py")
+2016-08-30T14:03:06: Parsing "setuptools.unicode_utils" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\unicode_utils.py")
+2016-08-30T14:03:06: Parsing "setuptools.utils" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\utils.py")
+2016-08-30T14:03:06: Parsing "setuptools.version" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\version.py")
+2016-08-30T14:03:06: Parsing "setuptools.windows_support" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\windows_support.py")
+2016-08-30T14:03:06: Parsing "setuptools" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\__init__.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.alias" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\alias.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.bdist_egg" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.bdist_rpm" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.bdist_wininst" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.build_ext" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\build_ext.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.build_py" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\build_py.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.develop" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\develop.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.easy_install" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\easy_install.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.egg_info" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\egg_info.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.install" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\install.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.install_egg_info" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.install_lib" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\install_lib.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.install_scripts" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.register" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\register.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.rotate" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\rotate.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.saveopts" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\saveopts.py")
+2016-08-30T14:03:06: Parsing "setuptools.command.sdist" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\sdist.py")
+2016-08-30T14:03:07: Parsing "setuptools.command.setopt" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\setopt.py")
+2016-08-30T14:03:07: Parsing "setuptools.command.test" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\test.py")
+2016-08-30T14:03:07: Parsing "setuptools.command.upload_docs" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2016-08-30T14:03:07: Parsing "setuptools.command" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\command\__init__.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.contexts" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\contexts.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.environment" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\environment.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.fixtures" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\fixtures.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.py26compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\py26compat.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.server" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\server.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_bdist_egg" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_bdist_egg.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_build_ext" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_build_ext.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_develop" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_develop.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_dist_info" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_dist_info.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_easy_install" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_easy_install.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_egg_info" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_egg_info.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_find_packages" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_find_packages.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_integration" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_integration.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_markerlib" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_markerlib.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_msvc9compiler" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_msvc9compiler.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_packageindex" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_packageindex.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_sandbox" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_sandbox.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_sdist" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_sdist.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_test" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_test.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_upload_docs" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_upload_docs.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.test_windows_wrappers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\test_windows_wrappers.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests.textwrap" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\textwrap.py")
+2016-08-30T14:03:07: Parsing "setuptools.tests" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools\tests\__init__.py")
+2016-08-30T14:03:07: Parsing complete
+2016-08-30T14:03:07: Analyzing "setuptools.archive_util"
+2016-08-30T14:03:07: Analyzing "setuptools.compat"
+2016-08-30T14:03:07: Analyzing "setuptools.depends"
+2016-08-30T14:03:07: Analyzing "setuptools.dist"
+2016-08-30T14:03:07: Analyzing "setuptools.extension"
+2016-08-30T14:03:07: Analyzing "setuptools.lib2to3_ex"
+2016-08-30T14:03:07: Analyzing "setuptools.msvc9_support"
+2016-08-30T14:03:07: Analyzing "setuptools.package_index"
+2016-08-30T14:03:07: Analyzing "setuptools.py26compat"
+2016-08-30T14:03:07: Analyzing "setuptools.py27compat"
+2016-08-30T14:03:07: Analyzing "setuptools.py31compat"
+2016-08-30T14:03:07: Analyzing "setuptools.sandbox"
+2016-08-30T14:03:07: Analyzing "setuptools.ssl_support"
+2016-08-30T14:03:07: Analyzing "setuptools.unicode_utils"
+2016-08-30T14:03:07: Analyzing "setuptools.utils"
+2016-08-30T14:03:07: Analyzing "setuptools.version"
+2016-08-30T14:03:07: Analyzing "setuptools.windows_support"
+2016-08-30T14:03:07: Analyzing "setuptools"
+2016-08-30T14:03:07: Analyzing "setuptools.command.alias"
+2016-08-30T14:03:07: Analyzing "setuptools.command.bdist_egg"
+2016-08-30T14:03:07: Analyzing "setuptools.command.bdist_rpm"
+2016-08-30T14:03:07: Analyzing "setuptools.command.bdist_wininst"
+2016-08-30T14:03:07: Analyzing "setuptools.command.build_ext"
+2016-08-30T14:03:07: Analyzing "setuptools.command.build_py"
+2016-08-30T14:03:07: Analyzing "setuptools.command.develop"
+2016-08-30T14:03:07: Analyzing "setuptools.command.easy_install"
+2016-08-30T14:03:07: Analyzing "setuptools.command.egg_info"
+2016-08-30T14:03:07: Analyzing "setuptools.command.install"
+2016-08-30T14:03:07: Analyzing "setuptools.command.install_egg_info"
+2016-08-30T14:03:07: Analyzing "setuptools.command.install_lib"
+2016-08-30T14:03:07: Analyzing "setuptools.command.install_scripts"
+2016-08-30T14:03:07: Analyzing "setuptools.command.register"
+2016-08-30T14:03:07: Analyzing "setuptools.command.rotate"
+2016-08-30T14:03:07: Analyzing "setuptools.command.saveopts"
+2016-08-30T14:03:07: Analyzing "setuptools.command.sdist"
+2016-08-30T14:03:07: Analyzing "setuptools.command.setopt"
+2016-08-30T14:03:07: Analyzing "setuptools.command.test"
+2016-08-30T14:03:07: Analyzing "setuptools.command.upload_docs"
+2016-08-30T14:03:07: Analyzing "setuptools.command"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.contexts"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.environment"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.fixtures"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.py26compat"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.server"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_bdist_egg"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_build_ext"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_develop"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_dist_info"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_easy_install"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_egg_info"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_find_packages"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_integration"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_markerlib"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_msvc9compiler"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_packageindex"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_sandbox"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_sdist"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_test"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_upload_docs"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.test_windows_wrappers"
+2016-08-30T14:03:07: Analyzing "setuptools.tests.textwrap"
+2016-08-30T14:03:07: Analyzing "setuptools.tests"
+2016-08-30T14:03:07: Starting analysis of 62 modules
+2016-08-30T14:03:08: Analysis complete
+2016-08-30T14:03:08: Saving group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools"
+2016-08-30T14:03:09: End of group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\setuptools"
+2016-08-30T14:03:09: Start group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug" with 39 files
+2016-08-30T14:03:10: Parsing "werkzeug.datastructures" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\datastructures.py")
+2016-08-30T14:03:10: Parsing "werkzeug.exceptions" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\exceptions.py")
+2016-08-30T14:03:10: Parsing "werkzeug.filesystem" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\filesystem.py")
+2016-08-30T14:03:10: Parsing "werkzeug.formparser" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\formparser.py")
+2016-08-30T14:03:10: Parsing "werkzeug.http" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\http.py")
+2016-08-30T14:03:10: Parsing "werkzeug.local" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\local.py")
+2016-08-30T14:03:10: Parsing "werkzeug.posixemulation" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\posixemulation.py")
+2016-08-30T14:03:10: Parsing "werkzeug.routing" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\routing.py")
+2016-08-30T14:03:10: Parsing "werkzeug.script" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\script.py")
+2016-08-30T14:03:10: Parsing "werkzeug.security" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\security.py")
+2016-08-30T14:03:10: Parsing "werkzeug.serving" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\serving.py")
+2016-08-30T14:03:10: Parsing "werkzeug.test" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\test.py")
+2016-08-30T14:03:10: Parsing "werkzeug.testapp" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\testapp.py")
+2016-08-30T14:03:10: Parsing "werkzeug.urls" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\urls.py")
+2016-08-30T14:03:11: Parsing "werkzeug.useragents" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\useragents.py")
+2016-08-30T14:03:11: Parsing "werkzeug.utils" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\utils.py")
+2016-08-30T14:03:11: Parsing "werkzeug.wrappers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\wrappers.py")
+2016-08-30T14:03:11: Parsing "werkzeug.wsgi" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\wsgi.py")
+2016-08-30T14:03:11: Parsing "werkzeug._compat" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\_compat.py")
+2016-08-30T14:03:11: Parsing "werkzeug._internal" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\_internal.py")
+2016-08-30T14:03:11: Parsing "werkzeug._reloader" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\_reloader.py")
+2016-08-30T14:03:11: Parsing "werkzeug" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\__init__.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib.atom" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\atom.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib.cache" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\cache.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib.fixers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\fixers.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib.iterio" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\iterio.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib.jsrouting" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\jsrouting.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib.limiter" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\limiter.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib.lint" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\lint.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib.profiler" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\profiler.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib.securecookie" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\securecookie.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib.sessions" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\sessions.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib.testtools" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\testtools.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib.wrappers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\wrappers.py")
+2016-08-30T14:03:11: Parsing "werkzeug.contrib" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\contrib\__init__.py")
+2016-08-30T14:03:11: Parsing "werkzeug.debug.console" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\debug\console.py")
+2016-08-30T14:03:11: Parsing "werkzeug.debug.repr" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\debug\repr.py")
+2016-08-30T14:03:11: Parsing "werkzeug.debug.tbtools" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\debug\tbtools.py")
+2016-08-30T14:03:11: Parsing "werkzeug.debug" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug\debug\__init__.py")
+2016-08-30T14:03:11: Parsing complete
+2016-08-30T14:03:11: Analyzing "werkzeug.datastructures"
+2016-08-30T14:03:11: Analyzing "werkzeug.exceptions"
+2016-08-30T14:03:11: Analyzing "werkzeug.filesystem"
+2016-08-30T14:03:11: Analyzing "werkzeug.formparser"
+2016-08-30T14:03:11: Analyzing "werkzeug.http"
+2016-08-30T14:03:11: Analyzing "werkzeug.local"
+2016-08-30T14:03:11: Analyzing "werkzeug.posixemulation"
+2016-08-30T14:03:11: Analyzing "werkzeug.routing"
+2016-08-30T14:03:11: Analyzing "werkzeug.script"
+2016-08-30T14:03:11: Analyzing "werkzeug.security"
+2016-08-30T14:03:11: Analyzing "werkzeug.serving"
+2016-08-30T14:03:11: Analyzing "werkzeug.test"
+2016-08-30T14:03:11: Analyzing "werkzeug.testapp"
+2016-08-30T14:03:11: Analyzing "werkzeug.urls"
+2016-08-30T14:03:11: Analyzing "werkzeug.useragents"
+2016-08-30T14:03:11: Analyzing "werkzeug.utils"
+2016-08-30T14:03:11: Analyzing "werkzeug.wrappers"
+2016-08-30T14:03:11: Analyzing "werkzeug.wsgi"
+2016-08-30T14:03:11: Analyzing "werkzeug._compat"
+2016-08-30T14:03:11: Analyzing "werkzeug._internal"
+2016-08-30T14:03:11: Analyzing "werkzeug._reloader"
+2016-08-30T14:03:11: Analyzing "werkzeug"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib.atom"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib.cache"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib.fixers"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib.iterio"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib.jsrouting"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib.limiter"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib.lint"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib.profiler"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib.securecookie"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib.sessions"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib.testtools"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib.wrappers"
+2016-08-30T14:03:11: Analyzing "werkzeug.contrib"
+2016-08-30T14:03:11: Analyzing "werkzeug.debug.console"
+2016-08-30T14:03:11: Analyzing "werkzeug.debug.repr"
+2016-08-30T14:03:11: Analyzing "werkzeug.debug.tbtools"
+2016-08-30T14:03:11: Analyzing "werkzeug.debug"
+2016-08-30T14:03:11: Starting analysis of 39 modules
+2016-08-30T14:03:12: Analysis complete
+2016-08-30T14:03:12: Saving group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug"
+2016-08-30T14:03:13: End of group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\werkzeug"
+2016-08-30T14:03:13: Start group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\_markerlib" with 2 files
+2016-08-30T14:03:14: Parsing "_markerlib.markers" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\_markerlib\markers.py")
+2016-08-30T14:03:14: Parsing "_markerlib" ("c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\_markerlib\__init__.py")
+2016-08-30T14:03:14: Parsing complete
+2016-08-30T14:03:14: Analyzing "_markerlib.markers"
+2016-08-30T14:03:14: Analyzing "_markerlib"
+2016-08-30T14:03:14: Starting analysis of 2 modules
+2016-08-30T14:03:14: Analysis complete
+2016-08-30T14:03:14: Saving group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\_markerlib"
+2016-08-30T14:03:14: End of group "c:\users\malexander\documents\visual studio 2015\Projects\FlaskWebProject1\FlaskWebProject1\env\Lib\site-packages\_markerlib"
+2016-08-30T14:03:15: Deleting 0 files
