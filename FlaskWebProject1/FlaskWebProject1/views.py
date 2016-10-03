@@ -4,6 +4,7 @@ Routes and views for the flask application.
 
 from datetime import datetime
 from flask import render_template
+from flask import request
 from FlaskWebProject1 import app
 
 @app.route('/')
@@ -26,12 +27,14 @@ def contact():
         message='Your contact page.'
     )
 
-@app.route('/about')
-def about():
-    """Renders the about page."""
+@app.route('/ti_webhook_cp', methods = ['POST'])
+def ti_webhook_cp():
+    """Renders the webhook receiver for course purchased page."""
     return render_template(
-        'about.html',
-        title='About',
+        'TI_webhook_cp.html',
+        title='Webhook',
         year=datetime.now().year,
         message='Your application description page.'
+        ti_webhook = request.get_json()
     )
+
